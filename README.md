@@ -41,7 +41,7 @@ This repository presents the structure and deliverables of the project
 without going into detailed technical explanations.
 
 ## Author
-Moulaye Abdoule Hady HAIDARA
+Moulaye Abdoule Hady HAIDARA et coéquipiers
 
 
 ## Project Structure
