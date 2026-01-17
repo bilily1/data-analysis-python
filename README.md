@@ -31,7 +31,7 @@ with tasks distributed and monitored using Trello.
 - Creation of visualizations with Matplotlib
 - Participation in code organization (functions / OOP)
 - Contribution to the final written report
-- ## Project Structure
+## Project Structure
 data/      → dataset files  
 src/       → Python scripts  
 figures/   → generated visualizations  
